@@ -1,8 +1,9 @@
 ✅1. automatically populate array
 ✅2. efficiently and successfully write to the sheet using populated array
-3. automated sort for one of the products
+✅3. automated sort for one of the products
 4. automated sort for all the products following ES002-GOAL tab
-5. clean up excess code and comment more
+✅5. clean up excess code and comment more
 6. check confluence for more tasks
-7. efficiency check
+✅7. efficiency check
 8. figure out how to create graphs and/or tables from the data
+9. sub-totals method
