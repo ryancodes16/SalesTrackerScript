@@ -1,0 +1,36 @@
+//does not work
+//merely a backup in case I want to reuse this code and try and fix it
+function sortStuff(name){
+  name = "ES002";  
+  var PartType = name;
+  var activeSpreadsheet = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = activeSpreadsheet.getSheetByName(PartType);
+  var data = sheet.getDataRange().getValues(); 
+  var nameTemp, partNoTemp, dateTemp, quantityTemp;
+  
+  for(var i = 0; i < data.length; i++)
+  {
+    for(var x = 0; x < data.length - i - 1; x++)
+    {
+      if(data[x][2].valueOf().substring(5,8) > data[x+1][2].substring(5,8))
+      {
+        sheet.appendRow([data[x][2].valueOf().substring(5,8),data[x+1][2].substring(5,8) , , ]);
+        console.log(data[x][2].valueOf().substring(5,8));
+        dateTemp = data[x][0];
+        nameTemp = data[x][1].valueOf();
+        partNoTemp = data[x][2].valueOf();
+        quantityTemp = data[x][3].valueOf();
+        data[x][0] = data[x+1][0];
+        data[x][1] = data[x+1][1].valueOf();
+        data[x][2] = data[x+1][2].valueOf();
+        data[x][3] = data[x+1][3].valueOf();
+        data[x+1][0] = dateTemp;
+        data[x+1][1] = nameTemp;
+        data[x+1][2] = partNoTemp;
+        data[x+1][3] = quantityTemp;
+      }
+      
+    }
+    
+  }
+}
