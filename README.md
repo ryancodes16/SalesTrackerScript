@@ -11,3 +11,6 @@ Example: A full part ID is ES004-101. The 101 is what is used to sort by least t
 
 
 The sales tracker is organized by five categories: Order Rec'D Date, Cus Name, Part No, Quantity, Sub-Totals (Quantity sum of last three digits)
+
+Features to come: -Automatically create graphs and charts
+                  -Add in financial data to analyze and manipulate
