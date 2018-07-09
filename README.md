@@ -14,3 +14,6 @@ The sales tracker is organized by five categories: Order Rec'D Date, Cus Name, P
 
 Features to come: -Automatically create graphs and charts
                   -Add in financial data to analyze and manipulate
+                  
+                  
+To use: Modify spreadsheets and variables as needed. Then use the "STARTPROGRAM" to run the application.
