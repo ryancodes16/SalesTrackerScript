@@ -14,6 +14,12 @@ The sales tracker is organized by five categories: Order Rec'D Date, Cus Name, P
 
 Add in data from another source (I use Quickbooks) and then manipulate the financial data with the indiviudal part number spreadsheets.
 
+Automatically sorts sheets within file in ascending or descending order.
+
+Running total on sales for each individual part.
+
+Good for financial analysis on a company's sales for each part type.
+
 Features to come: -Automatically create graphs and charts
                   ✅-Add in financial data to analyze and manipulate
                   
@@ -27,4 +33,4 @@ To use: Modify spreadsheets and variables as needed. Then use the "STARTPROGRAM"
 **To change format to desired ways, go to format function, go to this web address for formatting help with google scripts (https://developers.google.com/apps-script/reference/spreadsheet/range) or just google and stackoverflow
 **Be careful when using the DeleteSheets() function because once it deletes something it is permanent unless you can recover it successfully with the undo button
 **Contact me with any questions or concerns
-**07/13/2018
+**07/17/2018
