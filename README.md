@@ -31,6 +31,7 @@ To use: Modify spreadsheets and variables as needed. Then use the "STARTPROGRAM"
 
 **Quick tips
 **Make sure to name your original spreadsheet "From_MRP" and financial data "From_QBs" or adjust the variables accordingly in the program.
+**Make sure to delete old sheets before sorting again or running STARTME again... hopefully this is fixed soon
 **Change email in email function to whatever address you want
 **To change format to desired ways, go to format function, go to this web address for formatting help with google scripts (https://developers.google.com/apps-script/reference/spreadsheet/range) or just google and stackoverflow
 **Be careful when using the DeleteSheets() function because once it deletes something it is permanent unless you can recover it successfully with the undo button
