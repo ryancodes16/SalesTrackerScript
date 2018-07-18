@@ -18,6 +18,8 @@ Automatically sorts sheets within file in ascending or descending order.
 
 Running total on sales for each individual part.
 
+Creates a financial summary tab that shows each part number along with the sales and quantity sold per that part. There is also a total sales number shown and total quantity shown. The date range of sales is included at the top.
+
 Good for financial analysis on a company's sales for each part type.
 
 Features to come: -Automatically create graphs and charts
