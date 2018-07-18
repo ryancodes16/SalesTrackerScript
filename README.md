@@ -35,4 +35,4 @@ To use: Modify spreadsheets and variables as needed. Then use the "STARTPROGRAM"
 **To change format to desired ways, go to format function, go to this web address for formatting help with google scripts (https://developers.google.com/apps-script/reference/spreadsheet/range) or just google and stackoverflow
 **Be careful when using the DeleteSheets() function because once it deletes something it is permanent unless you can recover it successfully with the undo button
 **Contact me with any questions or concerns
-**07/17/2018
+**07/18/2018
