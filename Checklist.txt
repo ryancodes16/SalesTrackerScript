@@ -11,6 +11,8 @@
 ✅11. Deploy as web application
 ✅12. Make code more efficient
 ✅13. Document more heavily
-14. Ask for more useful features and implement
-15. Get useful graphs now if wanted
-16. Edit web app
+✅14. Ask for more useful features and implement
+❌15. Get useful graphs now if wanted
+❌16. Edit web app
+17. Import new data from 2018 and implement script
+✅18. Add summary tab with financial summary for each Part No
