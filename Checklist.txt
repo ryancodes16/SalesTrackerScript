@@ -16,3 +16,4 @@
 ❌16. Edit web app
 17. Import new data from 2018 and implement script
 ✅18. Add summary tab with financial summary for each Part No
+✅19. Top customer ranking system
