@@ -3,6 +3,8 @@ Uses Google Scripts with Google Sheets. Sorts inventory by Part No and creates i
 
 Google Scripts is JavaScript for Google Suite.
 
+Check the latest release for the most stable and current version (MASTER Template)
+
 This program reads in a master program containing sales information for a company. It then sorts the master file into individual newly
 created sheets for each product type. Example: All ES004 get placed in a sheet called ES004.
 Once placed in a sheet the parts are then sorted by the last three digits of their product ID:
