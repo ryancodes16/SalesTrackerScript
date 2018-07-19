@@ -18,3 +18,4 @@
 ✅18. Add summary tab with financial summary for each Part No
 ✅19. Top customer ranking system
 ✅20. Works for a new set of data
+✅21. Customer and biggest sales financial analysis
