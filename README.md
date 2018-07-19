@@ -28,6 +28,8 @@ Features to come: -Automatically create graphs and charts
                   
 To use: Modify spreadsheets and variables as needed. Then use the "STARTPROGRAM" to run the application.
 
+Script worked with data from a 2017 sheet and a 2018 sheet so as long as the format of the spreadsheets is proper (correct naming and format of the From_MRP and From_QBs) the script will work for anything.
+
 
 **Quick tips
 **Make sure to name your original spreadsheet "From_MRP" and financial data "From_QBs" or adjust the variables accordingly in the program.
@@ -36,4 +38,4 @@ To use: Modify spreadsheets and variables as needed. Then use the "STARTPROGRAM"
 **To change format to desired ways, go to format function, go to this web address for formatting help with google scripts (https://developers.google.com/apps-script/reference/spreadsheet/range) or just google and stackoverflow
 **Be careful when using the DeleteSheets() function because once it deletes something it is permanent unless you can recover it successfully with the undo button
 **Contact me with any questions or concerns
-**07/18/2018
+**07/19/2018
