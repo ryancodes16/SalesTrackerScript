@@ -20,7 +20,7 @@ Automatically sorts sheets within file in ascending or descending order.
 
 Running total on sales for each individual part.
 
-Creates a financial summary tab that shows each part number along with the sales and quantity sold per that part. There is also a total sales number shown and total quantity shown. The date range of sales is included at the top.
+Creates a financial summary tab that shows each part number along with the sales and quantity sold per that part. There is also a total sales number shown and total quantity shown. The date range of sales is included at the top. Now includes a biggest part order section where it shows largest quantity of a part ordered along with which company ordered it.
 
 Good for financial analysis on a company's sales for each part type.
 
