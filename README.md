@@ -39,3 +39,4 @@ Script worked with data from a 2017 sheet and a 2018 sheet so as long as the for
 **Be careful when using the DeleteSheets() function because once it deletes something it is permanent unless you can recover it successfully with the undo button
 **Contact me with any questions or concerns
 **07/19/2018
+***Author: Ryan Regier
