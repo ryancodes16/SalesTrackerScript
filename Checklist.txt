@@ -19,3 +19,6 @@
 ✅19. Top customer ranking system
 ✅20. Works for a new set of data
 ✅21. Customer and biggest sales financial analysis
+✅22. Redo sorting and make it so much more efficient
+✅23. Add UI (Standalone menu in sheets)
+24. Update Confluence
